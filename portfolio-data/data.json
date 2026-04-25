@@ -1,0 +1,52 @@
+{
+    "slug":  "test-angelo",
+    "experience":  [
+                       {
+                           "description":  "Construyo plataformas SaaS con IA para clientes en LATAM. Stack: Python, FastAPI, React, Claude Sonnet.",
+                           "company":  "Hero AGI",
+                           "period":  "2023 — Present",
+                           "role":  "Founder \u0026 Lead Engineer"
+                       }
+                   ],
+    "projects":  [
+                     {
+                         "tags":  [
+                                      "FastAPI",
+                                      "React",
+                                      "Claude AI",
+                                      "Supabase"
+                                  ],
+                         "demoUrl":  "https://mattiu.hero.com.pe",
+                         "problem":  "Gestión de proyectos y clientes era manual y lenta.",
+                         "solution":  "Plataforma SaaS con agente IA autónomo (MATTIU) integrado.",
+                         "category":  "SaaS / AI",
+                         "title":  "Hero Platform",
+                         "result":  "+80% eficiencia en gestión de proyectos."
+                     }
+                 ],
+    "profile":  {
+                    "name":  "Angelo Castillo",
+                    "badges":  [
+                                   "Python",
+                                   "FastAPI",
+                                   "React",
+                                   "TypeScript",
+                                   "AI/ML",
+                                   "Supabase"
+                               ],
+                    "description":  "Construyendo desde Moche, Peru — productos que escalan. Especializado en FastAPI, React y sistemas con IA.",
+                    "availableText":  "Disponible para proyectos",
+                    "stats":  {
+                                  "projects":  30,
+                                  "companies":  8,
+                                  "years":  5
+                              },
+                    "title":  "Full-Stack Engineer \u0026 AI Builder"
+                },
+    "template_id":  "midnight",
+    "contact":  {
+                    "email":  "angelocastilloperz@gmail.com",
+                    "linkedin":  "https://linkedin.com/in/angelocastillo",
+                    "github":  "https://github.com/AngeloCastilloPerez"
+                }
+}
